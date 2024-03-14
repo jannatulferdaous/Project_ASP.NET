@@ -1,0 +1,17 @@
+﻿@model Quizgame.Models.Tutorial
+
+@{
+    ViewData["Title"] = "Tutorial";
+}
+<div class="row">
+    <h4>Tutorial</h4>
+    <hr />
+    <div>
+        @Html.DisplayFor(model => model.Title)
+        <hr />
+        @Html.Raw(Model.Article)
+    </div>
+</div>
+<div>
+    <a asp-action="Index" asp-controller="QuestionShow" asp-route-id="@Model.ArticleId">Next</a>     
+</div>
