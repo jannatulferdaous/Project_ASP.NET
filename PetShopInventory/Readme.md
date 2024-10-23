@@ -1,4 +1,4 @@
-![Pet Shop Inventory System] (PetShop.gif) 
+![Pet Shop Inventory System](./%20PetShop.gif)
 # Pet Shop Inventory Management System  
 
  
