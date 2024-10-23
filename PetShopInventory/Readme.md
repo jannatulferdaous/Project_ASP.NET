@@ -1,7 +1,7 @@
 
 # Pet Shop Inventory Management System  
 
- ![Quiz Game Demo]( PetShop.gif)
+ ![Quiz Game Demo](PetShopInventory/PetShop.gif)
 A console-based inventory management system designed to streamline pet shop operations, tracking daily business transactions, maintaining a feeding and care schedule for pets, also saving time and reducing errors.
 
 ## Technologies Used
