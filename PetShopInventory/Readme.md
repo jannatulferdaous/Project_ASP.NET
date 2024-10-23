@@ -2,7 +2,11 @@
 # Pet Shop Inventory Management System  
 
 ![Pet Shop Inventory System](./%20PetShop.gif) 
-A console-based inventory management system designed to streamline pet shop operations, tracking daily business transactions, maintaining a feeding and care schedule for pets, also saving time and reducing errors.
+## Project Overview
+This Pet Shop Inventory Management System is designed to help pet shop owners manage their daily business operations efficiently. The system offers an organized approach to tracking business transactions, managing inventory, and maintaining schedules for pet care such as feeding and grooming.
+
+This console-based application leverages modern database management techniques to streamline tasks like tracking sales, purchases, and pet care activities, which reduces manual effort and minimizes the risk of errors in operations.
+ 
  
 ## Technologies Used
 - **Languages**: C#
